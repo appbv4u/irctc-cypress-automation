@@ -4,14 +4,14 @@
   "TRAVEL_DATE": "22/04/2025",
   "SOURCE_STATION": "MCI",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "PRYJ",
+  "DESTINATION_STATION": "PRRB",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
       "NAME": "B Dhanalakshmi",
-      "AGE": 26,
+      "AGE": 50,
       "GENDER": "Female",
       "SEAT": "No Preference",
       "FOOD": "No Food"
@@ -19,6 +19,13 @@
     {
       "NAME": "B Apparao",
       "AGE": 26,
+      "GENDER": "Male",
+      "SEAT": "No Preference",
+      "FOOD": "No Food"
+    },
+    {
+      "NAME": "B Apparao",
+      "AGE": 59,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
