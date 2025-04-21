@@ -1,6 +1,6 @@
 {
   "TRAIN_NO": "12791",
-  "TRAIN_COACH": "3A",
+  "TRAIN_COACH": "SL",
   "TRAVEL_DATE": "22/04/2025",
   "SOURCE_STATION": "MCI",
   "BOARDING_STATION": null,
@@ -18,7 +18,7 @@
     },
     {
       "NAME": "B Apparao",
-      "AGE": 26,
+      "AGE": 33,
       "GENDER": "Male",
       "SEAT": "No Preference",
       "FOOD": "No Food"
